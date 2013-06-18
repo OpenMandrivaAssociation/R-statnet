@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.6
-Release:          1
+Release:          2
 Summary:          Software tools for the Statistical Modeling of Network Data
 Group:            Sciences/Mathematics
 License:          GPL-3 + file LICENSE
