@@ -2,13 +2,13 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Version:          2.6
+Version:          3.1.0
 Release:          2
 Summary:          Software tools for the Statistical Modeling of Network Data
 Group:            Sciences/Mathematics
 License:          GPL-3 + file LICENSE
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/%{packname}_3.1-0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
 Requires:         R-network R-ergm R-latentnet R-degreenet R-sna R-abind R-shapes R-tools R-utils 
