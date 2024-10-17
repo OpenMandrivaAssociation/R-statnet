@@ -7,7 +7,7 @@ Release:          2
 Summary:          Software tools for the Statistical Modeling of Network Data
 Group:            Sciences/Mathematics
 License:          GPL-3 + file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_3.1-0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
